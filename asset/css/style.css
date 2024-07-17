@@ -491,6 +491,7 @@ th:last-child{
     transition: transform 1s;
 }
 .formulario form input {
+    padding: 5px;
     width: 100%;
     height: 40px;
     margin: 10px 0;
