@@ -19,9 +19,9 @@
         <div class="rodape-col-3">
             <h3>Mais informações</h3>
             <ul>
-                <li>Cupons</li>
-                <li>blog</li>
-                <li>politica</li>
+                <li><a href="">Cupons</a></li>
+                <li><a href="">blog</a></li>
+                <li><a href="">politica</a></li>
                 <li>privacidade</li>
             </ul>
         </div>
@@ -29,10 +29,10 @@
         <div class="rodape-col-4">
             <h3>Redes Sociais</h3>
             <ul>
-                <li>Facebook</li>
-                <li>Instagram</li>
-                <li>YouTube</li>
-                <li>Twitter</li>
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Instagram</a></li>
+                <li><a href="#">YouTube</a></li>
+                <li><a href="#">Twitter</a></li>
             </ul>
         </div>
     </div>

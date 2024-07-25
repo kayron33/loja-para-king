@@ -165,4 +165,4 @@
 
 </div>
 <!--FIM PRODUTOS EM DESTAQUES DA LOJA -->
-<?php  require_once " footer.php"?>
+<?php  require_once "footer.php" ?>

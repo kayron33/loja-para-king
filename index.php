@@ -52,7 +52,7 @@
 <div class="linha">
 <!--Inicio item produto destaque-->
 <div class="col-4">
-    <a href="ver-produto.html" title="">
+    <a href="ver-produto.php" title="">
     <img src="asset/img/produto-1.jpg" alt="">
 </a>
     <h4>Curso cobrança</h4>
@@ -68,7 +68,7 @@
 <!--Inicio item produto destaque-->
 <!--Inicio item produto destaque-->
 <div class="col-4">
-    <a href="ver-produto.html"><img src="asset/img/produto-2.jpg" alt=""></a>
+    <a href="ver-produto.php"><img src="asset/img/produto-2.jpg" alt=""></a>
     <h4>Curso cobrança</h4>
     <div class="classificacao">
         <ion-icon name="star-half"></ion-icon>
@@ -82,7 +82,7 @@
 <!--Inicio item produto destaque-->
 <!--Inicio item produto destaque-->
 <div class="col-4">
-    <a href="ver-produto.html"><img src="asset/img/produto-3.jpg" alt=""></a>
+    <a href="ver-produto.php"><img src="asset/img/produto-3.jpg" alt=""></a>
     <h4>Curso cobrança</h4>
     <div class="classificacao">
         <ion-icon name="star-half"></ion-icon>
@@ -96,7 +96,7 @@
 <!--Inicio item produto destaque-->
 <!--Inicio item produto destaque-->
 <div class="col-4">
-    <a href="ver-produto.html"><img src="asset/img/produto-4.jpg" alt=""></a>
+    <a href="ver-produto.php"><img src="asset/img/produto-4.jpg" alt=""></a>
     <h4>Curso cobrança</h4>
     <div class="classificacao">
         <ion-icon name="star-half"></ion-icon>
@@ -117,7 +117,7 @@
 <div class="linha">
     <!--Inicio item produto destaque-->
     <div class="col-4">
-        <a href="ver-produto.html"><img src="asset/img/produto-5.jpg" alt=""></a>
+        <a href="ver-produto.php"><img src="asset/img/produto-5.jpg" alt=""></a>
         <h4>Curso cobrança</h4>
         <div class="classificacao">
             <ion-icon name="star-half"></ion-icon>
@@ -131,7 +131,7 @@
     <!--Inicio item produto destaque-->
     <!--Inicio item produto destaque-->
     <div class="col-4">
-        <a href="ver-produto.html"><img src="asset/img/produto-6.jpg" alt=""></a>
+        <a href="ver-produto.php"><img src="asset/img/produto-6.jpg" alt=""></a>
         <h4>Curso cobrança</h4>
         <div class="classificacao">
             <ion-icon name="star-half"></ion-icon>
@@ -145,7 +145,7 @@
     <!--Inicio item produto destaque-->
     <!--Inicio item produto destaque-->
     <div class="col-4">
-        <a href="ver-produto.html"><img src="asset/img/produto-7.jpg" alt=""></a>
+        <a href="ver-produto.php"><img src="asset/img/produto-7.jpg" alt=""></a>
         <h4>Curso cobrança</h4>
         <div class="classificacao">
             <ion-icon name="star-half"></ion-icon>
@@ -159,7 +159,7 @@
     <!--Inicio item produto destaque-->
     <!--Inicio item produto destaque-->
     <div class="col-4">
-        <a href="ver-produto.html"><img src="asset/img/produto-8.jpg" alt=""></a>
+        <a href="ver-produto.php"><img src="asset/img/produto-8.jpg" alt=""></a>
         <h4>Curso cobrança</h4>
         <div class="classificacao">
             <ion-icon name="star-half"></ion-icon>
@@ -174,7 +174,7 @@
 
       <!--Inicio item produto destaque-->
       <div class="col-4">
-        <a href="ver-produto.html"><img src="asset/img/produto-9.jpg" alt=""></a>
+        <a href="ver-produto.php"><img src="asset/img/produto-9.jpg" alt=""></a>
         <h4>Curso cobrança</h4>
         <div class="classificacao">
             <ion-icon name="star-half"></ion-icon>
