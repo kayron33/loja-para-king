@@ -21,7 +21,7 @@ require_once('sheep_top_login.php');
               </div>
 
           
-
+              <!--
                   <div class="alert alert-danger alert-has-icon" style="margin:3px auto;">
                     <div class="alert-icon"><i class="far fa-lightbulb"></i></div>
                     <div class="alert-body">
@@ -92,7 +92,7 @@ require_once('sheep_top_login.php');
                     Sua conta foi cancelada, por gentileza entrar em contato com o suporte!
                   </div>
                 </div>
-
+                    -->
               
               <div class="card-body">
 
