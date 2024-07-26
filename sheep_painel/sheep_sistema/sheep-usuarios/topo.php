@@ -6,7 +6,7 @@
       <div class="card-body">
         <ul class="nav nav-pills" style="margin:5px; float:right;">
           <li class="nav-item">
-            <a class="nav-link active" href="sheep.php?m=sheep-usuarios/sheep-criar">Novo </a>
+            <a class="nav-link active" href="<?=FILTROS?>sheep-usuarios/criar">Novo </a>
           </li>
 
           <li class="nav-item">
